@@ -4,8 +4,8 @@
 [![GitHub Kristal](https://img.shields.io/github/followers/kconcepcion?logoColor=ff69b4&style=social)](https://github.com/kconcepcion)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&labelColor=pink&link=https://i-dont-have-a-website-yet-but-comming-soon!.com/)](https://i-dont-have-a-website-yet-but-comming-soon!.com/)
 
-
-
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contact Me!
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  kconcepcion540@gmail.com;
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 
@@ -22,10 +22,9 @@ const kristal = {
 }
 ```
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contact Me!
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  kconcepcion540@gmail.com;
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kconcepcion&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### <img src="https://media.tenor.com/wHdr_idzE20AAAAi/black-cat.gif" width="40"> Take a glance at my GitHub!
+| <a href="https://github.com/kconcepcion/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kconcepcion&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kristal's github stats" /></a> | <a href="https://github.com/kconcepcion/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kconcepcion&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
