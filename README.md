@@ -2,7 +2,7 @@
 
 [![Linkedin: kconcepcion](https://img.shields.io/badge/-kconcepcion-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/kristal-concepcion-83580a236/)
 [![GitHub Kristal](https://img.shields.io/github/followers/kconcepcion?logoColor=ff69b4&style=social)](https://github.com/kconcepcion)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&labelColor=pink&link=https://i-dont-have-a-website-yet-but-comming-soon!.com/)](https://i-dont-have-a-website-yet-but-comming-soon!.com/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&labelColor=pink&link=https://kconcepcion.github.io)](https://kconcepcion.github.io)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contact Me!
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  kconcepcion540@gmail.com;
