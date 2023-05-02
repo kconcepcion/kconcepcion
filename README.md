@@ -12,8 +12,8 @@
 ```javascript
 const kristal = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, C, Python, Java],
-  tools: [JupyterNotebook, R, Tableau, Excel, Pandas, SQL, PgAdmin],
+  code: [SQL, Javascript, HTML, CSS, C, Python, Java],
+  tools: [PostgreSQL, PgAdmin, JupyterNotebook, R, Tableau, Excel, Pandas],
   educationArr: {
                         associates: "Mathematics @ St. Philips College",
                         certification: "UTSA: Data Analytics Boot Camp"
